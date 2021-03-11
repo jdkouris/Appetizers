@@ -103,7 +103,6 @@
 			children = (
 				2985C36C25F037B6005A3AC8 /* AppetizerTabView.swift */,
 				FFB11C5725FA91F8002E3C93 /* AppetizerListView */,
-				FFB11C6325FA9386002E3C93 /* AppetizerDetailView */,
 				FFB11C5925FA9207002E3C93 /* OrderView */,
 				FFB11C5825FA9202002E3C93 /* AccountView */,
 			);
@@ -115,6 +114,7 @@
 			children = (
 				2985C39025F04E86005A3AC8 /* AppetizerListViewModel.swift */,
 				2985C37B25F0384E005A3AC8 /* AppetizerListView.swift */,
+				FFB11C6425FA93AB002E3C93 /* AppetizerDetailView.swift */,
 			);
 			path = AppetizerListView;
 			sourceTree = "<group>";
@@ -210,14 +210,6 @@
 				FFD6C70125F2B3A700737309 /* RemoteImage.swift */,
 			);
 			path = Image;
-			sourceTree = "<group>";
-		};
-		FFB11C6325FA9386002E3C93 /* AppetizerDetailView */ = {
-			isa = PBXGroup;
-			children = (
-				FFB11C6425FA93AB002E3C93 /* AppetizerDetailView.swift */,
-			);
-			path = AppetizerDetailView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
