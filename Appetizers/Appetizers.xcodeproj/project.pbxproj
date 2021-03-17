@@ -27,6 +27,7 @@
 		FFB11C7B25FFB008002E3C93 /* XDismissButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFB11C7A25FFB008002E3C93 /* XDismissButton.swift */; };
 		FFB11C8326010F30002E3C93 /* AccountViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFB11C8226010F30002E3C93 /* AccountViewModel.swift */; };
 		FFB11C8726011097002E3C93 /* String+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFB11C8626011097002E3C93 /* String+Ext.swift */; };
+		FFB11C8A2602564F002E3C93 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFB11C892602564F002E3C93 /* User.swift */; };
 		FFD6C70225F2B3A700737309 /* RemoteImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD6C70125F2B3A700737309 /* RemoteImage.swift */; };
 /* End PBXBuildFile section */
 
@@ -53,6 +54,7 @@
 		FFB11C7A25FFB008002E3C93 /* XDismissButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XDismissButton.swift; sourceTree = "<group>"; };
 		FFB11C8226010F30002E3C93 /* AccountViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountViewModel.swift; sourceTree = "<group>"; };
 		FFB11C8626011097002E3C93 /* String+Ext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Ext.swift"; sourceTree = "<group>"; };
+		FFB11C892602564F002E3C93 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		FFD6C70125F2B3A700737309 /* RemoteImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -184,6 +186,7 @@
 			isa = PBXGroup;
 			children = (
 				2985C38425F03EA4005A3AC8 /* Appetizer.swift */,
+				FFB11C892602564F002E3C93 /* User.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -309,6 +312,7 @@
 				2985C39125F04E86005A3AC8 /* AppetizerListViewModel.swift in Sources */,
 				2985C39B25F05B28005A3AC8 /* Color+Ext.swift in Sources */,
 				2985C37F25F03856005A3AC8 /* AccountView.swift in Sources */,
+				FFB11C8A2602564F002E3C93 /* User.swift in Sources */,
 				FFB11C7725FFAF79002E3C93 /* APButton.swift in Sources */,
 				2985C39825F05A89005A3AC8 /* LoadingView.swift in Sources */,
 				2985C36D25F037B6005A3AC8 /* AppetizerTabView.swift in Sources */,
