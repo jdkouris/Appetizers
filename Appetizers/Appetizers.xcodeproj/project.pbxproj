@@ -113,8 +113,8 @@
 			children = (
 				2985C36C25F037B6005A3AC8 /* AppetizerTabView.swift */,
 				FFB11C5725FA91F8002E3C93 /* AppetizerListView */,
-				FFB11C5925FA9207002E3C93 /* OrderView */,
 				FFB11C5825FA9202002E3C93 /* AccountView */,
+				FFB11C5925FA9207002E3C93 /* OrderView */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
